@@ -27,7 +27,7 @@ int main()
 
     int n = 2, r = 3;
     cout << nCr << endl;
-    
+
 
     return 0;
 }
